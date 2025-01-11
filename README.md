@@ -20,10 +20,10 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/1200926326018805860)](https://discord.com/users/1200926326018805860)
 ---
 ## Contact me:<br>
-<a href="https://www.youtube.com/channel/UCJkUxbMgUQg_rWcVWbNC04A">
+<a href="https://www.youtube.com/channel/">
   <img src="https://img.shields.io/badge/YouTube-100000?logo=youtube&style=social">
 </a>
-<a href="https://discord.com/users/735641273477890178">
+<a href="https://discord.com/users/1200926326018805860">
     <img src="https://img.shields.io/badge/Discord-100000?logo=discord&style=social">
 </a>
-<img src="https://komarev.com/ghpvc/?username=Rednotsus&label=Views&color=0e75b6&style=flat" alt="Rednotsus">
+<img src="https://komarev.com/ghpvc/?username=ChipLitFire&label=Views&color=0e75b6&style=flat" alt="Rednotsus">
