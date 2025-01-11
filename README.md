@@ -36,7 +36,7 @@
 
 ---
 
-## 🎮 **My Discord Presence:**
+## 🎮 **What I Am Doing:**
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1200926326018805860)](https://discord.com/users/1200926326018805860)
 
