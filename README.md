@@ -1,6 +1,6 @@
 ### 🌟 Hey There! I'm **Chip Hill** 🌟
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=759BC5&background=FFFFFF&center=true&vCenter=true&width=435&lines=The+Owner+of+Nooble;and+loving+to+create)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=759BC5&background=FFFFFF&center=true&vCenter=true&width=435&lines=The+Owner+of+Nooble;and+i+love+to+create)](https://git.io/typing-svg)
 
 ---
 
