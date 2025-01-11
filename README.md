@@ -1,6 +1,6 @@
 ### 🌟 Hey There! I'm **Chip Hill** 🌟
 
-[![Typing SVG](https://media1.giphy.com/media/YmQSkHTNxKS5A9aJYL/200w.gif?cid=82a1493bzeqpvcepd5zmaymw0j6n3skjno7zaixa9coq6lqa&ep=v1_gifs_related&rid=200w.gif&ct=g)
+[Typing SVG](https://media1.giphy.com/media/YmQSkHTNxKS5A9aJYL/200w.gif?cid=82a1493bzeqpvcepd5zmaymw0j6n3skjno7zaixa9coq6lqa&ep=v1_gifs_related&rid=200w.gif&ct=g)
 
 ---
 ### 999
