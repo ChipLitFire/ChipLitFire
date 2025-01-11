@@ -1,6 +1,6 @@
 ### 🌟 Hey There! I'm **Chip Hill** 🌟
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=759BC5&background=FFC0CB&center=true&vCenter=true&width=435&lines=Hello,+I'm+Rednotsus;A+passionate+Developer+of+55gms;Discord+bot+developer;+and+loving+to+create)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=759BC5&background=FFC0CB&center=true&vCenter=true&width=435&lines=The+Owner+of+Nooble;and+loving+to+create)](https://git.io/typing-svg)
 
 ---
 
