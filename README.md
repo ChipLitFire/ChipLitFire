@@ -39,7 +39,8 @@
 
 ## 🎮 **What I Am Doing:**
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1327514116771938324)](https://discord.com/users/1327514116771938324)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1327514116771938324?showDisplayName=true&hideBadges=false&theme=light&idleMessage=Not%20Currently%20Listening%20To%20Music%20Or%20Playing%20A%20Game.&bg=EDCF
+)](https://discord.com/users/1327514116771938324)
 
 ---
 
