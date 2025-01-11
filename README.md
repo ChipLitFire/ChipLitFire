@@ -1,6 +1,6 @@
 ### 🌟 Hey There! I'm **Chip Hill** 🌟
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=759BC5&background=FFC0CB&center=true&vCenter=true&width=435&lines=The+Owner+of+Nooble;and+loving+to+create)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=759BC5&background=FFFFFF&center=true&vCenter=true&width=435&lines=The+Owner+of+Nooble;and+loving+to+create)](https://git.io/typing-svg)
 
 ---
 
@@ -60,7 +60,4 @@
 
 ---
 
-### 💡 **About Me:**
-I’m a dedicated developer who thrives on building innovative solutions and engaging applications. Whether it's crafting a seamless Discord bot or diving into full-stack development, I love tackling new challenges and enhancing the user experience!
 
----
