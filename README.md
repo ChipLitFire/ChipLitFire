@@ -1,8 +1,9 @@
 ### 🌟 Hey There! I'm **Chip Hill** 🌟
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=759BC5&background=FFFFFF&center=true&vCenter=true&width=435&lines=The+Owner+of+Nooble;And+i+love+to+create.)](https://git.io/typing-svg)
+[![Typing SVG](https://media3.giphy.com/media/Tao8dFHeBSnbA9xj4o/giphy.gif?cid=6c09b9520ht05c5pim9hi9vqo0quz8gqm4jkcq662g3tdp2o&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)](https://www.youtube.com/watch?v=6TK--iArtQM&ab_channel=JuiceWRLDVEVO)
 
 ---
+### 999
 
 ### 🚀 **Languages & Tech Stack:**
 
