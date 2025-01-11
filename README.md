@@ -1,29 +1,66 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=759BC5&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hey%2C+Im+Rednotsus;Developer+of+55gms;Discord+bot+developer)](https://git.io/typing-svg)
+### 🌟 Hey There! I'm **Chip Hill** 🌟
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=759BC5&background=FFC0CB&center=true&vCenter=true&width=435&lines=Hello,+I'm+Rednotsus;A+passionate+Developer+of+55gms;Discord+bot+developer;+and+loving+to+create)](https://git.io/typing-svg)
 
 ---
 
-### **Languages & Tools:**
+### 🚀 **Languages & Tech Stack:**
 
-- [Python](https://www.python.org/)
-- [React](https://reactjs.org/)
-- [Node](https://nodejs.org/)
-- [HTML,CSS,JS](https://nodejs.org/)
+- **🔧 Programming Languages:**
+  - [Python](https://www.python.org/)
+  - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  
+- **🌐 Frontend Development:**
+  - [React](https://reactjs.org/)
+  - [HTML5](https://www.w3schools.com/html/)
+  - [CSS3](https://www.w3schools.com/css/)
+
+- **⚙️ Backend Development:**
+  - [Node.js](https://nodejs.org/)
+  - [Express](https://expressjs.com/)
+
+- **🗄️ Databases:**
+  - [MongoDB](https://www.mongodb.com/)
+  - [PostgreSQL](https://www.postgresql.org/)
+
+- **🛠️ Other Tools:**
+  - [Git](https://git-scm.com/)
+  - [Docker](https://www.docker.com/)
 
 ---
 
-## **Stats:**
+## 📊 **My Stats:**
 
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DuroCodes&show_icons=true&theme=dracula&locale=en&layout=compact"> -->
-<img src="https://github-profile-trophy.vercel.app/?username=ChipLitFire&no-frame=false&theme=dracula&column=4&row=1">
+[![GitHub Profile Stats](https://github-readme-stats.vercel.app/api?username=ChipLitFire&show_icons=true&theme=dracula&locale=en)](https://github.com/ChipLitFire)
+[![GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ChipLitFire&show_icons=true&theme=dracula&locale=en&layout=compact)](https://github.com/ChipLitFire)
 
 ---
+
+## 🎮 **My Discord Presence:**
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/1200926326018805860)](https://discord.com/users/1200926326018805860)
+
 ---
-## Contact me:<br>
-<a href="https://www.youtube.com/channel/">
-  <img src="https://img.shields.io/badge/YouTube-100000?logo=youtube&style=social">
+
+## 📬 **Stay Connected!**
+
+<a href="[insert YouTube link]" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&style=social">
 </a>
-<a href="https://discord.com/users/1200926326018805860">
-    <img src="https://img.shields.io/badge/Discord-100000?logo=discord&style=social">
+<a href="[insert Discord invite link]" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&style=social">
 </a>
-<img src="https://komarev.com/ghpvc/?username=ChipLitFire&label=Views&color=0e75b6&style=flat" alt="Rednotsus">
+<a href="[insert LinkedIn link]" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=social">
+</a>
+
+### 🥇 **Profile Views:**
+
+<img src="https://komarev.com/ghpvc/?username=ChipLitFire&label=Views&color=0e75b6&style=flat" alt="Profile views">
+
+---
+
+### 💡 **About Me:**
+I’m a dedicated developer who thrives on building innovative solutions and engaging applications. Whether it's crafting a seamless Discord bot or diving into full-stack development, I love tackling new challenges and enhancing the user experience!
+
+---
