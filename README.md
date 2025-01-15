@@ -32,7 +32,7 @@
 
 ## 📊 **My Stats:**
 
-[![GitHub Profile Stats](https://github-readme-stats.vercel.app/api?username=ChipLitFire&show_icons=true&theme=dracula&locale=en)](https://github.com/ChipLitFire)
+[![GitHub Profile Stats](https://github-readme-stats.vercel.app/api?username=chipLitFire&show_icons=true&theme=dracula&locale=en)](https://github.com/ChipLitFire)
 [![GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ChipLitFire&show_icons=true&theme=dracula&locale=en&layout=compact)](https://github.com/ChipLitFire)
 
 ---
